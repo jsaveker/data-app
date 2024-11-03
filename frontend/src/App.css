@@ -1,0 +1,22 @@
+/* Styles for the home page */
+
+.header {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .header img {
+    max-width: 200px;
+    height: auto;
+  }
+  
+  .header h1 {
+    font-size: 2.5em;
+    margin-top: 10px;
+  }
+  
+  .header h2 {
+    font-size: 1.5em;
+    color: #666;
+  }
+  
